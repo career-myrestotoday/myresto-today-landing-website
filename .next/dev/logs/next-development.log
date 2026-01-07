@@ -1,0 +1,75 @@
+[00:00:03.333] Server  LOG      ✓ Ready in 2.3s
+[00:00:10.920] Server  LOG      ○ Compiling / ...
+[00:00:15.906] Server  WARN     ⚠ Cross origin request detected from 10.58.210.185 to /_next/* resource. In a future major version of Next.js, you will need to explicitly configure "allowedDevOrigins" in next.config to allow this.
+Read more: https://nextjs.org/docs/app/api-reference/config/next-config-js/allowedDevOrigins
+[00:00:16.011] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:00:23.238] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:00:23.238] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:00:23.238] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://10.58.210.185:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://10.58.210.185:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782215433}
+[00:03:19.264] Server  LOG      ✓ Compiled in 3.7s
+[00:04:12.921] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:04:13.726] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:04:13.726] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/","route":"/"}
+[00:04:13.726] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://10.58.210.185:3000/ color: rgb(120, 120, 120) color: inherit {"dp":"/","o":"http://10.58.210.185:3000/","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782445908}
+[00:04:29.922] Server  LOG      ○ Compiling /pricing ...
+[00:04:32.249] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://10.58.210.185:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://10.58.210.185:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782464431}
+[00:06:45.587] Server  LOG      ✓ Compiled in 947ms
+[00:07:06.337] Server  LOG      ✓ Compiled in 397ms
+[00:07:25.767] Server  LOG      ✓ Compiled in 488ms
+[00:07:36.389] Server  LOG      ✓ Compiled in 885ms
+[00:07:42.582] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:42.849] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:07:43.273] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:07:43.291] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:07:45.667] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:07:45.667] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:08:13.452] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:08:13.461] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:08:14.360] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:14.360] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:08:27.362] Server  LOG      ○ Compiling /products/[slug] ...
+[00:08:29.305] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\245f5_next_dist_6f249a8d._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:08:29.306] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__5a7dd63a._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:08:29.307] Server  WARN    Error: Route "/products/[slug]" used `params.slug`. `params` is a Promise and must be unwrapped with `await` or `React.use()` before accessing its properties. Learn more: https://nextjs.org/docs/messages/sync-dynamic-apis
+[00:08:30.277] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:08:31.171] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:08:31.171] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products/pappel-app","route":"/products/[slug]"}
+[00:08:31.171] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products/pappel-app color: rgb(120, 120, 120) color: inherit {"dp":"/products/[slug]","o":"http://localhost:3000/products/pappel-app","r":"","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782703364}
+[00:08:34.176] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:08:34.178] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:08:34.399] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:09:03.424] Server  LOG      ✓ Compiled in 401ms
+[00:09:03.881] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:09:03.884] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:09:04.089] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:09:04.090] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:09:05.168] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:05.168] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:09:05.652] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:06.773] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:09:17.634] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:09:17.636] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:09:18.099] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:18.099] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:09:29.129] Server  LOG      ✓ Compiled in 559ms
+[00:09:29.373] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:09:29.376] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:09:29.595] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:09:29.597] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:09:30.511] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:30.660] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:30.660] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:09:30.784] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:09:38.057] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:09:38.064] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:09:38.915] Server  ERROR   C:\Users\hafiz\OneDrive\Documents\myResto Today\myresto-today-landing-website\.next\dev\server\chunks\ssr\[root-of-the-server]__25a900ae._.js: Invalid source map. Only conformant source maps can be used to find the original code. Cause: Error: sourceMapURL could not be parsed
+[00:09:38.916] Server  ERROR    ⨯ ReferenceError: Link is not defined
+[00:09:40.614] Server  LOG      ✓ Compiled in 340ms
+[00:09:41.180] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:41.350] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:09:41.514] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:41.774] Browser ERROR   uncaughtError: ReferenceError: Link is not defined
+[00:09:45.925] Browser INFO    %cDownload the React DevTools for a better development experience: https://react.dev/link/react-devtools font-weight:bold
+[00:09:46.334] Browser LOG     %c[Vercel Web Analytics]%c Debug mode is enabled by default in development. No requests will be sent to the server. color: rgb(120, 120, 120) color: inherit
+[00:09:46.335] Browser LOG     %c[Vercel Web Analytics]%c Running queued event color: rgb(120, 120, 120) color: inherit pageview {"path":"/products","route":"/products"}
+[00:09:46.335] Browser LOG     %c[Vercel Web Analytics]%c [pageview] http://localhost:3000/products color: rgb(120, 120, 120) color: inherit {"dp":"/products","o":"http://localhost:3000/products","sdkn":"@vercel/analytics/next","sdkv":"1.3.1","sv":"0.1.3","ts":1767782778522}

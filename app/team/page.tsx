@@ -8,25 +8,25 @@ const teamMembers = [
   {
     name: "Haris I M",
     role: "Founder & CEO",
-    image: "/professional-portrait-placeholder-ceo.jpg",
+    image: "/images/haris.png",
     bio: "Leading the charge in revolutionizing restaurant technology",
   },
   {
     name: "Muhammed Rafi",
     role: "Co-Founder, CMO",
-    image: "/professional-portrait-placeholder-cmo.jpg",
+    image: "/images/Muhammed-Rafi.png",
     bio: "Driving marketing strategy and brand development",
   },
   {
     name: "Abdul Kareem",
     role: "Co-Founder, CTO",
-    image: "/professional-portrait-placeholder-cto.jpg",
+    image: "/images/abdul-kareem.png",
     bio: "Building cutting-edge AI solutions for the food industry",
   },
   {
     name: "Ansal P S",
     role: "COO & Partner",
-    image: "/professional-portrait-placeholder-coo.jpg",
+    image: "/images/ansal.png",
     bio: "Optimizing operations and driving business excellence",
   },
 ]
@@ -35,25 +35,25 @@ const boardMembers = [
   {
     name: "HARIS I M",
     role: "M D & Chairman of the Board",
-    image: "/professional-portrait-placeholder-chairman.jpg",
+    image: "/images/haris.png",
     bio: "Providing strategic direction and governance oversight",
   },
   {
     name: "Ashik Ahmed",
     role: "V-Chairman & Investor",
-    image: "/professional-portrait-placeholder-vchairman.jpg",
+    image: "/images/logo.png",
     bio: "Supporting growth through strategic investment and guidance",
   },
   {
     name: "Muhammed Rafi",
     role: "Director & Board Member",
-    image: "/professional-portrait-placeholder-director1.jpg",
+    image: "/images/Muhammed-Rafi.png",
     bio: "Contributing expertise in marketing and business development",
   },
   {
     name: "Jishnu G P",
     role: "Director & Board Member",
-    image: "/professional-portrait-placeholder-director2.jpg",
+    image: "/images/jishnu.png",
     bio: "Providing strategic oversight and industry insights",
   },
 ]
@@ -90,9 +90,8 @@ export default function TeamPage() {
             {teamMembers.map((member, index) => (
               <Card key={index} className="overflow-hidden hover:shadow-xl transition-shadow group">
                 <div className="aspect-square bg-muted relative overflow-hidden">
-                  <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-primary/20 flex items-center justify-center">
-                    <div className="w-24 h-24 rounded-full bg-accent/30" />
-                  </div>
+                  <img src={member.image} alt={member.name} className="absolute inset-0 w-full h-full object-cover" />
+                  <div className="absolute inset-0 bg-gradient-to-br from-accent/20 to-primary/20" />
                 </div>
                 <div className="p-6">
                   <h3 className="text-xl font-semibold mb-1">{member.name}</h3>
@@ -124,9 +123,8 @@ export default function TeamPage() {
             {boardMembers.map((member, index) => (
               <Card key={index} className="overflow-hidden hover:shadow-xl transition-shadow group">
                 <div className="aspect-square bg-muted relative overflow-hidden">
-                  <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20 flex items-center justify-center">
-                    <div className="w-24 h-24 rounded-full bg-primary/30" />
-                  </div>
+                  <img src={member.image} alt={member.name} className="absolute inset-0 w-full h-full object-cover" />
+                  <div className="absolute inset-0 bg-gradient-to-br from-primary/20 to-accent/20" />
                 </div>
                 <div className="p-6">
                   <h3 className="text-xl font-semibold mb-1">{member.name}</h3>
