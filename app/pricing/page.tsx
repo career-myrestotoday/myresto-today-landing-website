@@ -4,6 +4,7 @@ import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
 import { Check, ArrowRight, Wallet, TrendingUp, Zap, Gift } from "lucide-react"
+import Link from "next/link"
 
 const premiumFeatures = [
   "Smart POS & Billing System",
@@ -121,10 +122,12 @@ export default function PricingPage() {
               </div>
 
               <div className="text-center">
-                <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
-                  Get Started Now
-                  <ArrowRight className="ml-2 h-5 w-5" />
-                </Button>
+                <Link href="/trial">
+                  <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
+                    Get Started Now
+                    <ArrowRight className="ml-2 h-5 w-5" />
+                  </Button>
+                </Link>
               </div>
             </Card>
           </div>
@@ -231,17 +234,21 @@ export default function PricingPage() {
             Start with just ₹100 and see the difference myResto Today can make
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
-              Get Started Now
-              <ArrowRight className="ml-2 h-5 w-5" />
-            </Button>
-            <Button
-              size="lg"
-              variant="outline"
-              className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
-            >
-              Schedule a Demo
-            </Button>
+            <Link href="/trial">
+              <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
+                Get Started Now
+                <ArrowRight className="ml-2 h-5 w-5" />
+              </Button>
+            </Link>
+            <Link href="/demo">
+              <Button
+                size="lg"
+                variant="outline"
+                className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
+              >
+                Schedule a Demo
+              </Button>
+            </Link>
           </div>
         </div>
       </section>

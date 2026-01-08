@@ -2,7 +2,7 @@
     script: typeof document === "object" ? document.currentScript : undefined,
     chunks: [
   "static/chunks/[root-of-the-server]__d5e64618._.css",
-  "static/chunks/245f5_9ea9d9fa._.js"
+  "static/chunks/OneDrive_Documents_myResto Today_myresto-today-landing-website_109fe610._.js"
 ],
     source: "dynamic"
 });

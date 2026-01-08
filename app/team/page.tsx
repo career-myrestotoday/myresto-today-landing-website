@@ -3,6 +3,7 @@ import { Footer } from "@/components/footer"
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Linkedin, Mail, ArrowRight } from "lucide-react"
+import Link from "next/link"
 
 const teamMembers = [
   {
@@ -98,12 +99,16 @@ export default function TeamPage() {
                   <p className="text-sm text-accent font-medium mb-3">{member.role}</p>
                   <p className="text-sm text-muted-foreground mb-4">{member.bio}</p>
                   <div className="flex gap-2">
-                    <Button size="icon" variant="outline" className="h-8 w-8 bg-transparent">
-                      <Linkedin className="h-4 w-4" />
-                    </Button>
-                    <Button size="icon" variant="outline" className="h-8 w-8 bg-transparent">
-                      <Mail className="h-4 w-4" />
-                    </Button>
+                    <a href="https://www.linkedin.com/company/myresto-today/" target="_blank" rel="noopener noreferrer">
+                      <Button size="icon" variant="outline" className="h-8 w-8 bg-transparent">
+                        <Linkedin className="h-4 w-4" />
+                      </Button>
+                    </a>
+                    <a href={`mailto:myrestotoday@gmail.com?subject=Contact%20${encodeURIComponent(member.name)}`}>
+                      <Button size="icon" variant="outline" className="h-8 w-8 bg-transparent">
+                        <Mail className="h-4 w-4" />
+                      </Button>
+                    </a>
                   </div>
                 </div>
               </Card>
@@ -131,12 +136,16 @@ export default function TeamPage() {
                   <p className="text-sm text-accent font-medium mb-3">{member.role}</p>
                   <p className="text-sm text-muted-foreground mb-4">{member.bio}</p>
                   <div className="flex gap-2">
-                    <Button size="icon" variant="outline" className="h-8 w-8 bg-transparent">
-                      <Linkedin className="h-4 w-4" />
-                    </Button>
-                    <Button size="icon" variant="outline" className="h-8 w-8 bg-transparent">
-                      <Mail className="h-4 w-4" />
-                    </Button>
+                    <a href="https://www.linkedin.com/company/myresto-today/" target="_blank" rel="noopener noreferrer">
+                      <Button size="icon" variant="outline" className="h-8 w-8 bg-transparent">
+                        <Linkedin className="h-4 w-4" />
+                      </Button>
+                    </a>
+                    <a href={`mailto:myrestotoday@gmail.com?subject=Contact%20${encodeURIComponent(member.name)}`}>
+                      <Button size="icon" variant="outline" className="h-8 w-8 bg-transparent">
+                        <Mail className="h-4 w-4" />
+                      </Button>
+                    </a>
                   </div>
                 </div>
               </Card>
@@ -152,10 +161,12 @@ export default function TeamPage() {
           <p className="text-lg text-primary-foreground/90 mb-8">
             We're always looking for talented individuals who share our passion for innovation
           </p>
-          <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
-            View Open Positions
-            <ArrowRight className="ml-2 h-5 w-5" />
-          </Button>
+          <Link href="/careers">
+            <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
+              View Open Positions
+              <ArrowRight className="ml-2 h-5 w-5" />
+            </Button>
+          </Link>
         </div>
       </section>
 

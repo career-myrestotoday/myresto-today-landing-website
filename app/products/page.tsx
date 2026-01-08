@@ -3,6 +3,7 @@ import { Footer } from "@/components/footer"
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
 import { Badge } from "@/components/ui/badge"
+import Link from "next/link"
 import {
   ShoppingCart,
   QrCode,
@@ -25,7 +26,7 @@ const products = [
     description: "Professional POS system designed for restaurants of all sizes",
     features: [
       "Lightning-fast billing (under 3 seconds)",
-      "Offline mode - works without internet",
+      "Cloud-synced mode with resilient local fallback",
       "Multi-device synchronization",
       "Kitchen display system (KDS) integration",
       "Inventory management",
@@ -131,7 +132,7 @@ const products = [
 const platforms = [
   { name: "Web Dashboard", icon: Cloud, description: "Access from any browser" },
   { name: "Mobile Apps", icon: Smartphone, description: "iOS & Android apps" },
-  { name: "Offline Mode", icon: Wifi, description: "Works without internet" },
+  { name: "Cloud Sync", icon: Wifi, description: "Resilient local fallback when connectivity is limited" },
 ]
 
 export default function ProductsPage() {
@@ -211,7 +212,9 @@ export default function ProductsPage() {
                     <div className="text-sm text-muted-foreground">Pricing</div>
                     <div className="text-lg font-semibold text-accent">{product.price}</div>
                   </div>
-                  <Button className="bg-accent text-accent-foreground hover:bg-accent/90">Learn More</Button>
+                  <Link href="/learn">
+                    <Button className="bg-accent text-accent-foreground hover:bg-accent/90">Learn More</Button>
+                  </Link>
                 </div>
               </Card>
             ))}
@@ -227,10 +230,12 @@ export default function ProductsPage() {
             Our products are designed to integrate seamlessly, giving you a unified platform to manage your entire
             restaurant operation
           </p>
-          <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
-            See How It Works
-            <ArrowRight className="ml-2 h-5 w-5" />
-          </Button>
+          <Link href="/learn">
+            <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
+              See How It Works
+              <ArrowRight className="ml-2 h-5 w-5" />
+            </Button>
+          </Link>
         </div>
       </section>
 
@@ -242,17 +247,21 @@ export default function ProductsPage() {
             Choose the products that fit your needs and start your free trial today
           </p>
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
-              Start Free Trial
-              <ArrowRight className="ml-2 h-5 w-5" />
-            </Button>
-            <Button
-              size="lg"
-              variant="outline"
-              className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
-            >
-              Contact Sales
-            </Button>
+            <Link href="/trial">
+              <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
+                Start Free Trial
+                <ArrowRight className="ml-2 h-5 w-5" />
+              </Button>
+            </Link>
+            <Link href="/contact">
+              <Button
+                size="lg"
+                variant="outline"
+                className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
+              >
+                Contact Sales
+              </Button>
+            </Link>
           </div>
         </div>
       </section>

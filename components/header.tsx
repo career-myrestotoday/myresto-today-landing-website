@@ -21,14 +21,20 @@ export function Header() {
 
   return (
     <header className="fixed top-0 left-0 right-0 z-50 bg-primary/95 backdrop-blur-sm border-b border-primary/20">
-      <nav className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8" aria-label="Global">
+      <nav
+        className="mx-auto flex max-w-7xl items-center justify-between p-4 lg:px-8"
+        aria-label="Global"
+        style={{ paddingTop: 'calc(1rem + 0.2cm)', paddingBottom: 'calc(1rem + 0.2cm)' }}
+      >
         <div className="flex lg:flex-1">
-          <Link href="/" className="-m-1.5 p-1.5 flex items-center gap-3">
-            <Image src="/images/1024.png" alt="myResto Today" width={40} height={40} className="h-10 w-auto" />
-            <div className="flex flex-col leading-tight">
-              <span className="text-[#E8C5A5] font-semibold text-lg italic">myResto</span>
-              <span className="text-[#D4915E] font-medium text-sm -mt-1">today</span>
-            </div>
+          <Link href="/" className="-m-1.5 p-1.5 flex items-center">
+            <Image
+              src="https://myrestotoday.io/03_images/logo.png"
+              alt="myResto Today"
+              width={40}
+              height={40}
+              className="h-10 w-auto"
+            />
           </Link>
         </div>
         <div className="flex lg:hidden">
@@ -80,7 +86,9 @@ export function Header() {
               <line x1="18.36" y1="5.64" x2="19.78" y2="4.22" />
             </svg>
           </Button>
-          <Button className="bg-accent text-accent-foreground hover:bg-accent/90 font-medium">Get Started</Button>
+          <a href="https://myrestotoday.io/video-qr/" target="_blank" rel="noopener noreferrer">
+            <Button className="bg-accent text-accent-foreground hover:bg-accent/90 font-medium">Get Started</Button>
+          </a>
         </div>
       </nav>
       {/* Mobile menu */}
@@ -98,7 +106,9 @@ export function Header() {
               </Link>
             ))}
             <div className="pt-4">
-              <Button className="w-full bg-accent text-accent-foreground hover:bg-accent/90">Get Started</Button>
+              <a href="https://myrestotoday.io/video-qr/" target="_blank" rel="noopener noreferrer" className="block">
+                <Button className="w-full bg-accent text-accent-foreground hover:bg-accent/90">Get Started</Button>
+              </a>
             </div>
           </div>
         </div>

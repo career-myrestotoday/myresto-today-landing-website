@@ -223,6 +223,30 @@ export default function AboutPage() {
         </div>
       </section>
 
+      {/* Company Identification */}
+      <section className="py-12 lg:py-16 bg-background border-t">
+        <div className="mx-auto max-w-7xl px-6 lg:px-8">
+          <div className="text-center mb-6">
+            <h2 className="text-2xl lg:text-3xl font-bold mb-2">Company Identification</h2>
+            <p className="text-sm text-muted-foreground">Statutory and registration details for Menumatic MyResto Today Private Limited</p>
+          </div>
+
+          <div className="mx-auto max-w-4xl text-sm text-primary-foreground/90 space-y-2">
+            <div><strong>Legal Name:</strong> Menumatic MyResto Today Private Limited</div>
+            <div><strong>Brand / Trade Name:</strong> myResto Today</div>
+            <div><strong>Type of Entity:</strong> Private Limited Company (Indian Company)</div>
+            <div><strong>Date of Incorporation:</strong> 13 December 2024</div>
+            <div><strong>Corporate Identification Number (CIN):</strong> U58202KL2024PTC090963</div>
+            <div><strong>Registrar of Companies (RoC):</strong> Kerala</div>
+            <div><strong>DPIIT Startup Recognition Number:</strong> DIPP191486</div>
+            <div><strong>Kerala Startup Mission (KSUM) ID:</strong> DIPP191486/2024/KSUM3986</div>
+            <div><strong>UDYAM Registration Number (MSME):</strong> UDYAM-KL-02-0108308</div>
+            <div><strong>Enterprise Category:</strong> Micro Enterprise (Services)</div>
+            <div><strong>GST Registration Number:</strong> 32AASCM7586J1ZP</div>
+          </div>
+        </div>
+      </section>
+
       <Footer />
     </div>
   )

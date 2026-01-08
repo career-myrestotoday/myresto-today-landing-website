@@ -132,46 +132,19 @@ function Footer() {
                                 children: [
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
                                         href: "/",
-                                        className: "flex items-center gap-3",
-                                        children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
-                                                src: "/images/logo.png",
-                                                alt: "myResto Today",
-                                                width: 64,
-                                                height: 64,
-                                                className: "h-16 w-auto"
-                                            }, void 0, false, {
-                                                fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                lineNumber: 32,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                className: "flex flex-col leading-tight",
-                                                children: [
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "text-[#E8C5A5] font-semibold text-xl",
-                                                        children: "myResto"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                        lineNumber: 34,
-                                                        columnNumber: 17
-                                                    }, this),
-                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
-                                                        className: "text-[#D4915E] font-medium text-sm -mt-1",
-                                                        children: "today"
-                                                    }, void 0, false, {
-                                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                        lineNumber: 35,
-                                                        columnNumber: 17
-                                                    }, this)
-                                                ]
-                                            }, void 0, true, {
-                                                fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                lineNumber: 33,
-                                                columnNumber: 15
-                                            }, this)
-                                        ]
-                                    }, void 0, true, {
+                                        className: "flex items-center",
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$image$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                            src: "https://myrestotoday.io/03_images/logo.png",
+                                            alt: "myResto Today",
+                                            width: 64,
+                                            height: 64,
+                                            className: "h-16 w-auto"
+                                        }, void 0, false, {
+                                            fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
+                                            lineNumber: 32,
+                                            columnNumber: 15
+                                        }, this)
+                                    }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
                                         lineNumber: 31,
                                         columnNumber: 13
@@ -181,43 +154,100 @@ function Footer() {
                                         children: "Empowering the food service industry with cutting-edge AI technology. From local cafes to global chains, we have the solution for you."
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                        lineNumber: 38,
+                                        lineNumber: 34,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                        className: "mt-4 flex gap-4 text-sm text-primary-foreground/80",
+                                        className: "mt-4 flex flex-col gap-2 text-sm text-primary-foreground/80",
                                         children: [
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
-                                                className: "hover:text-accent",
-                                                children: "Twitter"
-                                            }, void 0, false, {
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "flex items-center gap-3",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                        href: "https://www.facebook.com/myrestotoday",
+                                                        target: "_blank",
+                                                        rel: "noopener noreferrer",
+                                                        className: "hover:text-accent",
+                                                        children: "Facebook"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
+                                                        lineNumber: 40,
+                                                        columnNumber: 17
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                        href: "https://x.com/myrestotoday/",
+                                                        target: "_blank",
+                                                        rel: "noopener noreferrer",
+                                                        className: "hover:text-accent",
+                                                        children: "X"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
+                                                        lineNumber: 41,
+                                                        columnNumber: 17
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                        href: "https://www.instagram.com/myrestotoday/",
+                                                        target: "_blank",
+                                                        rel: "noopener noreferrer",
+                                                        className: "hover:text-accent",
+                                                        children: "Instagram"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
+                                                        lineNumber: 42,
+                                                        columnNumber: 17
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                lineNumber: 43,
+                                                lineNumber: 39,
                                                 columnNumber: 15
                                             }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
-                                                className: "hover:text-accent",
-                                                children: "LinkedIn"
-                                            }, void 0, false, {
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                className: "flex items-center gap-3",
+                                                children: [
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                        href: "https://www.linkedin.com/company/myresto-today/",
+                                                        target: "_blank",
+                                                        rel: "noopener noreferrer",
+                                                        className: "hover:text-accent",
+                                                        children: "LinkedIn"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
+                                                        lineNumber: 45,
+                                                        columnNumber: 17
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                        href: "https://youtube.com/@myrestotoday",
+                                                        target: "_blank",
+                                                        rel: "noopener noreferrer",
+                                                        className: "hover:text-accent",
+                                                        children: "YouTube"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
+                                                        lineNumber: 46,
+                                                        columnNumber: 17
+                                                    }, this),
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
+                                                        href: "https://whatsapp.com/channel/0029Vajk1LNLI8YdZeO8KC0q",
+                                                        target: "_blank",
+                                                        rel: "noopener noreferrer",
+                                                        className: "hover:text-accent",
+                                                        children: "WhatsApp"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
+                                                        lineNumber: 47,
+                                                        columnNumber: 17
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
                                                 lineNumber: 44,
-                                                columnNumber: 15
-                                            }, this),
-                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
-                                                href: "#",
-                                                className: "hover:text-accent",
-                                                children: "Instagram"
-                                            }, void 0, false, {
-                                                fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                lineNumber: 45,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                        lineNumber: 42,
+                                        lineNumber: 38,
                                         columnNumber: 13
                                     }, this)
                                 ]
@@ -234,7 +264,7 @@ function Footer() {
                                         children: "Products"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                        lineNumber: 50,
+                                        lineNumber: 53,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -246,23 +276,23 @@ function Footer() {
                                                     children: item.name
                                                 }, void 0, false, {
                                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                    lineNumber: 54,
+                                                    lineNumber: 57,
                                                     columnNumber: 19
                                                 }, this)
                                             }, item.name, false, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                lineNumber: 53,
+                                                lineNumber: 56,
                                                 columnNumber: 17
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                        lineNumber: 51,
+                                        lineNumber: 54,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                lineNumber: 49,
+                                lineNumber: 52,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -273,7 +303,7 @@ function Footer() {
                                         children: "Company"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                        lineNumber: 63,
+                                        lineNumber: 66,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("ul", {
@@ -285,23 +315,23 @@ function Footer() {
                                                     children: item.name
                                                 }, void 0, false, {
                                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                    lineNumber: 67,
+                                                    lineNumber: 70,
                                                     columnNumber: 19
                                                 }, this)
                                             }, item.name, false, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                lineNumber: 66,
+                                                lineNumber: 69,
                                                 columnNumber: 17
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                        lineNumber: 64,
+                                        lineNumber: 67,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                lineNumber: 62,
+                                lineNumber: 65,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -312,24 +342,45 @@ function Footer() {
                                         children: "Contact"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                        lineNumber: 76,
+                                        lineNumber: 79,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("address", {
                                         className: "not-italic text-sm text-primary-foreground/80 space-y-2",
                                         children: [
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                children: "Building No. 60/44, third floor, JC Chambers"
+                                                children: "Registered Office:"
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                lineNumber: 78,
+                                                lineNumber: 81,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
-                                                children: "Panampilly Nagar, Ernakulam - 682036, Kerala"
+                                                children: "701/G – Right Path Charitable Trust Building"
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                lineNumber: 79,
+                                                lineNumber: 82,
+                                                columnNumber: 15
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                children: "Kombara Malelipilly Road"
+                                            }, void 0, false, {
+                                                fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
+                                                lineNumber: 83,
+                                                columnNumber: 15
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                children: "Edathala North P.O., Aluva"
+                                            }, void 0, false, {
+                                                fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
+                                                lineNumber: 84,
+                                                columnNumber: 15
+                                            }, this),
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
+                                                children: "Ernakulam, Kerala – 683561, India"
+                                            }, void 0, false, {
+                                                fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
+                                                lineNumber: 85,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -342,13 +393,13 @@ function Footer() {
                                                         children: "myrestotoday@gmail.com"
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                        lineNumber: 80,
+                                                        lineNumber: 86,
                                                         columnNumber: 64
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                lineNumber: 80,
+                                                lineNumber: 86,
                                                 columnNumber: 15
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -358,28 +409,28 @@ function Footer() {
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("a", {
                                                         href: "tel:+919747650176",
                                                         className: "hover:text-accent",
-                                                        children: "+919747650176"
+                                                        children: "+91 97476 50176"
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                        lineNumber: 81,
+                                                        lineNumber: 87,
                                                         columnNumber: 59
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                                lineNumber: 81,
+                                                lineNumber: 87,
                                                 columnNumber: 15
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                        lineNumber: 77,
+                                        lineNumber: 80,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                lineNumber: 75,
+                                lineNumber: 78,
                                 columnNumber: 11
                             }, this)
                         ]
@@ -400,7 +451,7 @@ function Footer() {
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                lineNumber: 87,
+                                lineNumber: 95,
                                 columnNumber: 11
                             }, this),
                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -412,7 +463,7 @@ function Footer() {
                                         children: "Privacy Policy"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                        lineNumber: 89,
+                                        lineNumber: 97,
                                         columnNumber: 13
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
@@ -421,19 +472,19 @@ function Footer() {
                                         children: "Terms of Service"
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                        lineNumber: 90,
+                                        lineNumber: 98,
                                         columnNumber: 13
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                                lineNumber: 88,
+                                lineNumber: 96,
                                 columnNumber: 11
                             }, this)
                         ]
                     }, void 0, true, {
                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/components/footer.tsx",
-                        lineNumber: 86,
+                        lineNumber: 94,
                         columnNumber: 9
                     }, this)
                 ]
@@ -691,6 +742,8 @@ var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myR
 var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$trending$2d$up$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__TrendingUp$3e$__ = __turbopack_context__.i("[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/node_modules/lucide-react/dist/esm/icons/trending-up.js [app-rsc] (ecmascript) <export default as TrendingUp>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$zap$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Zap$3e$__ = __turbopack_context__.i("[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/node_modules/lucide-react/dist/esm/icons/zap.js [app-rsc] (ecmascript) <export default as Zap>");
 var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$gift$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__Gift$3e$__ = __turbopack_context__.i("[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/node_modules/lucide-react/dist/esm/icons/gift.js [app-rsc] (ecmascript) <export default as Gift>");
+var __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__ = __turbopack_context__.i("[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/node_modules/next/dist/client/app-dir/link.react-server.js [app-rsc] (ecmascript)");
+;
 ;
 ;
 ;
@@ -740,7 +793,7 @@ function PricingPage() {
         children: [
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$header$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Header"], {}, void 0, false, {
                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                lineNumber: 49,
+                lineNumber: 50,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -756,14 +809,14 @@ function PricingPage() {
                                     children: "Affordable"
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 55,
+                                    lineNumber: 56,
                                     columnNumber: 13
                                 }, this),
                                 " & Flexible Pricing"
                             ]
                         }, void 0, true, {
                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                            lineNumber: 54,
+                            lineNumber: 55,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -771,18 +824,18 @@ function PricingPage() {
                             children: "Pay only for what you use. No hidden fees, no long-term contracts"
                         }, void 0, false, {
                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                            lineNumber: 57,
+                            lineNumber: 58,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                    lineNumber: 53,
+                    lineNumber: 54,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                lineNumber: 52,
+                lineNumber: 53,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -803,7 +856,7 @@ function PricingPage() {
                                                 children: "Pay-As-You-Go Model"
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                lineNumber: 69,
+                                                lineNumber: 70,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("h2", {
@@ -811,7 +864,7 @@ function PricingPage() {
                                                 children: "Simple, Transparent Pricing"
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                lineNumber: 70,
+                                                lineNumber: 71,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -819,13 +872,13 @@ function PricingPage() {
                                                 children: "Perfect for restaurants of all sizes - from small cafes to large chains"
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                lineNumber: 71,
+                                                lineNumber: 72,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                        lineNumber: 68,
+                                        lineNumber: 69,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -840,12 +893,12 @@ function PricingPage() {
                                                             className: "h-8 w-8 text-accent"
                                                         }, void 0, false, {
                                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                            lineNumber: 79,
+                                                            lineNumber: 80,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 78,
+                                                        lineNumber: 79,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -853,7 +906,7 @@ function PricingPage() {
                                                         children: "Minimum Recharge"
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 81,
+                                                        lineNumber: 82,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -861,7 +914,7 @@ function PricingPage() {
                                                         children: "₹100"
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 82,
+                                                        lineNumber: 83,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -869,13 +922,13 @@ function PricingPage() {
                                                         children: "Get started with just ₹100"
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 83,
+                                                        lineNumber: 84,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                lineNumber: 77,
+                                                lineNumber: 78,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -887,12 +940,12 @@ function PricingPage() {
                                                             className: "h-8 w-8 text-accent"
                                                         }, void 0, false, {
                                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                            lineNumber: 88,
+                                                            lineNumber: 89,
                                                             columnNumber: 21
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 87,
+                                                        lineNumber: 88,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -900,7 +953,7 @@ function PricingPage() {
                                                         children: "Cost Per Use"
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 90,
+                                                        lineNumber: 91,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -908,7 +961,7 @@ function PricingPage() {
                                                         children: "11p"
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 91,
+                                                        lineNumber: 92,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -916,19 +969,19 @@ function PricingPage() {
                                                         children: "Only 11 paise per transaction"
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 92,
+                                                        lineNumber: 93,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                lineNumber: 86,
+                                                lineNumber: 87,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                        lineNumber: 76,
+                                        lineNumber: 77,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -939,7 +992,7 @@ function PricingPage() {
                                                 children: "How It Works"
                                             }, void 0, false, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                lineNumber: 97,
+                                                lineNumber: 98,
                                                 columnNumber: 17
                                             }, this),
                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -952,7 +1005,7 @@ function PricingPage() {
                                                                 children: "1"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 100,
+                                                                lineNumber: 101,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -960,7 +1013,7 @@ function PricingPage() {
                                                                 children: "Recharge Your Account"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 103,
+                                                                lineNumber: 104,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -968,13 +1021,13 @@ function PricingPage() {
                                                                 children: "Add credits starting from ₹100"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 104,
+                                                                lineNumber: 105,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 99,
+                                                        lineNumber: 100,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -984,7 +1037,7 @@ function PricingPage() {
                                                                 children: "2"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 107,
+                                                                lineNumber: 108,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -992,7 +1045,7 @@ function PricingPage() {
                                                                 children: "Use the Platform"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 110,
+                                                                lineNumber: 111,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1000,13 +1053,13 @@ function PricingPage() {
                                                                 children: "Pay 11p per transaction"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 111,
+                                                                lineNumber: 112,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 106,
+                                                        lineNumber: 107,
                                                         columnNumber: 19
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1016,7 +1069,7 @@ function PricingPage() {
                                                                 children: "3"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 114,
+                                                                lineNumber: 115,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1024,7 +1077,7 @@ function PricingPage() {
                                                                 children: "Recharge Anytime"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 117,
+                                                                lineNumber: 118,
                                                                 columnNumber: 21
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1032,61 +1085,68 @@ function PricingPage() {
                                                                 children: "No monthly commitments"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 118,
+                                                                lineNumber: 119,
                                                                 columnNumber: 21
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 113,
+                                                        lineNumber: 114,
                                                         columnNumber: 19
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                lineNumber: 98,
+                                                lineNumber: 99,
                                                 columnNumber: 17
                                             }, this)
                                         ]
                                     }, void 0, true, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                        lineNumber: 96,
+                                        lineNumber: 97,
                                         columnNumber: 15
                                     }, this),
                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                                         className: "text-center",
-                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
-                                            size: "lg",
-                                            className: "bg-accent text-accent-foreground hover:bg-accent/90 font-semibold",
-                                            children: [
-                                                "Get Started Now",
-                                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
-                                                    className: "ml-2 h-5 w-5"
-                                                }, void 0, false, {
-                                                    fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                    lineNumber: 126,
-                                                    columnNumber: 19
-                                                }, this)
-                                            ]
-                                        }, void 0, true, {
+                                        children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                            href: "/trial",
+                                            children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
+                                                size: "lg",
+                                                className: "bg-accent text-accent-foreground hover:bg-accent/90 font-semibold",
+                                                children: [
+                                                    "Get Started Now",
+                                                    /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
+                                                        className: "ml-2 h-5 w-5"
+                                                    }, void 0, false, {
+                                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
+                                                        lineNumber: 128,
+                                                        columnNumber: 21
+                                                    }, this)
+                                                ]
+                                            }, void 0, true, {
+                                                fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
+                                                lineNumber: 126,
+                                                columnNumber: 19
+                                            }, this)
+                                        }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 124,
+                                            lineNumber: 125,
                                             columnNumber: 17
                                         }, this)
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                        lineNumber: 123,
+                                        lineNumber: 124,
                                         columnNumber: 15
                                     }, this)
                                 ]
                             }, void 0, true, {
                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                lineNumber: 67,
+                                lineNumber: 68,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                            lineNumber: 66,
+                            lineNumber: 67,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1103,14 +1163,14 @@ function PricingPage() {
                                                     children: "Premium Features"
                                                 }, void 0, false, {
                                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                    lineNumber: 136,
+                                                    lineNumber: 139,
                                                     columnNumber: 17
                                                 }, this),
                                                 " Included"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 135,
+                                            lineNumber: 138,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1118,13 +1178,13 @@ function PricingPage() {
                                             children: "All features included with your pay-per-use plan"
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 138,
+                                            lineNumber: 141,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 134,
+                                    lineNumber: 137,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -1138,7 +1198,7 @@ function PricingPage() {
                                                         className: "h-5 w-5 text-accent shrink-0 mt-0.5"
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 145,
+                                                        lineNumber: 148,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("span", {
@@ -1146,29 +1206,29 @@ function PricingPage() {
                                                         children: feature
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 146,
+                                                        lineNumber: 149,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, index, true, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                lineNumber: 144,
+                                                lineNumber: 147,
                                                 columnNumber: 19
                                             }, this))
                                     }, void 0, false, {
                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                        lineNumber: 142,
+                                        lineNumber: 145,
                                         columnNumber: 15
                                     }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 141,
+                                    lineNumber: 144,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                            lineNumber: 133,
+                            lineNumber: 136,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1184,14 +1244,14 @@ function PricingPage() {
                                                     children: "On-Demand"
                                                 }, void 0, false, {
                                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                    lineNumber: 157,
+                                                    lineNumber: 160,
                                                     columnNumber: 17
                                                 }, this),
                                                 " Add-Ons"
                                             ]
                                         }, void 0, true, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 156,
+                                            lineNumber: 159,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1199,13 +1259,13 @@ function PricingPage() {
                                             children: "Unlock advanced features as your business grows - pay only when you need them"
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 159,
+                                            lineNumber: 162,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 155,
+                                    lineNumber: 158,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1221,12 +1281,12 @@ function PricingPage() {
                                                             className: "h-6 w-6 text-accent"
                                                         }, void 0, false, {
                                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                            lineNumber: 169,
+                                                            lineNumber: 172,
                                                             columnNumber: 23
                                                         }, this)
                                                     }, void 0, false, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 168,
+                                                        lineNumber: 171,
                                                         columnNumber: 21
                                                     }, this),
                                                     /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1237,7 +1297,7 @@ function PricingPage() {
                                                                 children: feature.name
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 172,
+                                                                lineNumber: 175,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1245,7 +1305,7 @@ function PricingPage() {
                                                                 children: feature.description
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 173,
+                                                                lineNumber: 176,
                                                                 columnNumber: 23
                                                             }, this),
                                                             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$badge$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Badge"], {
@@ -1253,46 +1313,46 @@ function PricingPage() {
                                                                 children: "Available on demand"
                                                             }, void 0, false, {
                                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                                lineNumber: 174,
+                                                                lineNumber: 177,
                                                                 columnNumber: 23
                                                             }, this)
                                                         ]
                                                     }, void 0, true, {
                                                         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                        lineNumber: 171,
+                                                        lineNumber: 174,
                                                         columnNumber: 21
                                                     }, this)
                                                 ]
                                             }, void 0, true, {
                                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                                lineNumber: 167,
+                                                lineNumber: 170,
                                                 columnNumber: 19
                                             }, this)
                                         }, index, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 166,
+                                            lineNumber: 169,
                                             columnNumber: 17
                                         }, this))
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 164,
+                                    lineNumber: 167,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                            lineNumber: 154,
+                            lineNumber: 157,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                    lineNumber: 65,
+                    lineNumber: 66,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                lineNumber: 64,
+                lineNumber: 65,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1307,12 +1367,12 @@ function PricingPage() {
                                 children: "Frequently Asked Questions"
                             }, void 0, false, {
                                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                lineNumber: 188,
+                                lineNumber: 191,
                                 columnNumber: 13
                             }, this)
                         }, void 0, false, {
                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                            lineNumber: 187,
+                            lineNumber: 190,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
@@ -1326,7 +1386,7 @@ function PricingPage() {
                                             children: "Is there a monthly subscription fee?"
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 193,
+                                            lineNumber: 196,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1334,13 +1394,13 @@ function PricingPage() {
                                             children: "No! We operate on a pay-as-you-go model. You only pay 11 paise per transaction with a minimum recharge of ₹100."
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 194,
+                                            lineNumber: 197,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 192,
+                                    lineNumber: 195,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -1351,7 +1411,7 @@ function PricingPage() {
                                             children: 'What counts as a "use" or transaction?'
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 201,
+                                            lineNumber: 204,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1359,13 +1419,13 @@ function PricingPage() {
                                             children: "Each order processed through the POS system, QR order, or customer transaction counts as one use."
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 202,
+                                            lineNumber: 205,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 200,
+                                    lineNumber: 203,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -1376,7 +1436,7 @@ function PricingPage() {
                                             children: "Can I cancel anytime?"
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 208,
+                                            lineNumber: 211,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1384,13 +1444,13 @@ function PricingPage() {
                                             children: "Yes! There are no long-term contracts. Your unused credits remain in your account for when you need them."
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 209,
+                                            lineNumber: 212,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 207,
+                                    lineNumber: 210,
                                     columnNumber: 13
                                 }, this),
                                 /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$card$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Card"], {
@@ -1401,7 +1461,7 @@ function PricingPage() {
                                             children: "Are there any hidden fees?"
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 216,
+                                            lineNumber: 219,
                                             columnNumber: 15
                                         }, this),
                                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1409,30 +1469,30 @@ function PricingPage() {
                                             children: "No hidden fees whatsoever. The 11 paise per use is all-inclusive for the premium features. On-demand features are charged separately when activated."
                                         }, void 0, false, {
                                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 217,
+                                            lineNumber: 220,
                                             columnNumber: 15
                                         }, this)
                                     ]
                                 }, void 0, true, {
                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 215,
+                                    lineNumber: 218,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                            lineNumber: 191,
+                            lineNumber: 194,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                    lineNumber: 186,
+                    lineNumber: 189,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                lineNumber: 185,
+                lineNumber: 188,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("section", {
@@ -1445,7 +1505,7 @@ function PricingPage() {
                             children: "Ready to Transform Your Restaurant?"
                         }, void 0, false, {
                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                            lineNumber: 229,
+                            lineNumber: 232,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("p", {
@@ -1453,66 +1513,80 @@ function PricingPage() {
                             children: "Start with just ₹100 and see the difference myResto Today can make"
                         }, void 0, false, {
                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                            lineNumber: 230,
+                            lineNumber: 233,
                             columnNumber: 11
                         }, this),
                         /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])("div", {
                             className: "flex flex-col sm:flex-row gap-4 justify-center",
                             children: [
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
-                                    size: "lg",
-                                    className: "bg-accent text-accent-foreground hover:bg-accent/90 font-semibold",
-                                    children: [
-                                        "Get Started Now",
-                                        /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
-                                            className: "ml-2 h-5 w-5"
-                                        }, void 0, false, {
-                                            fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                            lineNumber: 236,
-                                            columnNumber: 15
-                                        }, this)
-                                    ]
-                                }, void 0, true, {
-                                    fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 234,
-                                    columnNumber: 13
-                                }, this),
-                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
-                                    size: "lg",
-                                    variant: "outline",
-                                    className: "bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10",
-                                    children: "Schedule a Demo"
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                    href: "/trial",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
+                                        size: "lg",
+                                        className: "bg-accent text-accent-foreground hover:bg-accent/90 font-semibold",
+                                        children: [
+                                            "Get Started Now",
+                                            /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$lucide$2d$react$2f$dist$2f$esm$2f$icons$2f$arrow$2d$right$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__$3c$export__default__as__ArrowRight$3e$__["ArrowRight"], {
+                                                className: "ml-2 h-5 w-5"
+                                            }, void 0, false, {
+                                                fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
+                                                lineNumber: 240,
+                                                columnNumber: 17
+                                            }, this)
+                                        ]
+                                    }, void 0, true, {
+                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
+                                        lineNumber: 238,
+                                        columnNumber: 15
+                                    }, this)
                                 }, void 0, false, {
                                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                                    lineNumber: 238,
+                                    lineNumber: 237,
+                                    columnNumber: 13
+                                }, this),
+                                /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$client$2f$app$2d$dir$2f$link$2e$react$2d$server$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["default"], {
+                                    href: "/demo",
+                                    children: /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$ui$2f$button$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Button"], {
+                                        size: "lg",
+                                        variant: "outline",
+                                        className: "bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10",
+                                        children: "Schedule a Demo"
+                                    }, void 0, false, {
+                                        fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
+                                        lineNumber: 244,
+                                        columnNumber: 15
+                                    }, this)
+                                }, void 0, false, {
+                                    fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
+                                    lineNumber: 243,
                                     columnNumber: 13
                                 }, this)
                             ]
                         }, void 0, true, {
                             fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                            lineNumber: 233,
+                            lineNumber: 236,
                             columnNumber: 11
                         }, this)
                     ]
                 }, void 0, true, {
                     fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                    lineNumber: 228,
+                    lineNumber: 231,
                     columnNumber: 9
                 }, this)
             }, void 0, false, {
                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                lineNumber: 227,
+                lineNumber: 230,
                 columnNumber: 7
             }, this),
             /*#__PURE__*/ (0, __TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$node_modules$2f$next$2f$dist$2f$server$2f$route$2d$modules$2f$app$2d$page$2f$vendored$2f$rsc$2f$react$2d$jsx$2d$dev$2d$runtime$2e$js__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["jsxDEV"])(__TURBOPACK__imported__module__$5b$project$5d2f$OneDrive$2f$Documents$2f$myResto__Today$2f$myresto$2d$today$2d$landing$2d$website$2f$components$2f$footer$2e$tsx__$5b$app$2d$rsc$5d$__$28$ecmascript$29$__["Footer"], {}, void 0, false, {
                 fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-                lineNumber: 249,
+                lineNumber: 256,
                 columnNumber: 7
             }, this)
         ]
     }, void 0, true, {
         fileName: "[project]/OneDrive/Documents/myResto Today/myresto-today-landing-website/app/pricing/page.tsx",
-        lineNumber: 48,
+        lineNumber: 49,
         columnNumber: 5
     }, this);
 }

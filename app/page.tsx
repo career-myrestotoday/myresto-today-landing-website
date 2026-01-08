@@ -4,6 +4,7 @@ import { Button } from "@/components/ui/button"
 import { Card } from "@/components/ui/card"
 import { ArrowRight, TrendingUp, Zap, BarChart3, QrCode, Brain, Users } from "lucide-react"
 import Image from "next/image"
+import Link from "next/link"
 
 export default function HomePage() {
   return (
@@ -33,17 +34,21 @@ export default function HomePage() {
                 operations, boost sales, and enhance customer experience with AI.
               </p>
               <div className="flex flex-col sm:flex-row gap-4">
-                <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
-                  Request Demo
-                  <ArrowRight className="ml-2 h-5 w-5" />
-                </Button>
-                <Button
-                  size="lg"
-                  variant="outline"
-                  className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
-                >
-                  Explore Products
-                </Button>
+                <Link href="/demo">
+                  <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
+                    Request Demo
+                    <ArrowRight className="ml-2 h-5 w-5" />
+                  </Button>
+                </Link>
+                <Link href="/products">
+                  <Button
+                    size="lg"
+                    variant="outline"
+                    className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
+                  >
+                    Explore Products
+                  </Button>
+                </Link>
               </div>
 
               {/* Stats */}
@@ -123,7 +128,7 @@ export default function HomePage() {
               </div>
               <h3 className="text-xl font-semibold mb-2">Smart POS</h3>
               <p className="text-muted-foreground">
-                Offline billing, real-time inventory tracking, and comprehensive staff management in one system
+                Cloud-synced billing, real-time inventory tracking, and comprehensive staff management in one system
               </p>
             </Card>
 
@@ -187,19 +192,23 @@ export default function HomePage() {
           <p className="text-lg text-primary-foreground/90 mb-8">
             Join 500+ restaurants already using myResto Today to streamline operations and boost revenue
           </p>
-          <div className="flex flex-col sm:flex-row gap-4 justify-center">
-            <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
-              Get Started Now
-              <ArrowRight className="ml-2 h-5 w-5" />
-            </Button>
-            <Button
-              size="lg"
-              variant="outline"
-              className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
-            >
-              Contact Sales
-            </Button>
-          </div>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <Link href="/trial">
+                <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
+                  Get Started Now
+                  <ArrowRight className="ml-2 h-5 w-5" />
+                </Button>
+              </Link>
+              <Link href="/contact">
+                <Button
+                  size="lg"
+                  variant="outline"
+                  className="bg-transparent border-primary-foreground/30 text-primary-foreground hover:bg-primary-foreground/10"
+                >
+                  Contact Sales
+                </Button>
+              </Link>
+            </div>
         </div>
       </section>
 

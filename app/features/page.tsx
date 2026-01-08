@@ -2,6 +2,7 @@ import { Header } from "@/components/header"
 import { Footer } from "@/components/footer"
 import { Card } from "@/components/ui/card"
 import { Button } from "@/components/ui/button"
+import Link from "next/link"
 import {
   BarChart3,
   Brain,
@@ -20,9 +21,9 @@ const features = [
   {
     icon: BarChart3,
     title: "Smart POS & Billing",
-    description: "Lightning-fast billing under 3 seconds with offline capability",
+    description: "Lightning-fast billing under 3 seconds with cloud-enabled sync",
     benefits: [
-      "Offline billing ensures no downtime",
+      "Cloud-synced billing ensures no downtime",
       "Real-time inventory tracking",
       "Staff management & payroll",
       "Multiple payment methods",
@@ -207,10 +208,12 @@ export default function FeaturesPage() {
           <p className="text-lg text-primary-foreground/90 mb-8">
             Start your free trial today and see how myResto Today can transform your restaurant
           </p>
-          <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
-            Start Free Trial
-            <ArrowRight className="ml-2 h-5 w-5" />
-          </Button>
+          <Link href="/trial">
+            <Button size="lg" className="bg-accent text-accent-foreground hover:bg-accent/90 font-semibold">
+              Start Free Trial
+              <ArrowRight className="ml-2 h-5 w-5" />
+            </Button>
+          </Link>
         </div>
       </section>
 

@@ -9,6 +9,7 @@ import { Button } from "@/components/ui/button"
 import { Input } from "@/components/ui/input"
 import { Textarea } from "@/components/ui/textarea"
 import { Label } from "@/components/ui/label"
+import Link from "next/link"
 import { Mail, Phone, MapPin, Send, MessageSquare, Calendar } from "lucide-react"
 import { useState } from "react"
 
@@ -97,7 +98,7 @@ export default function ContactPage() {
                 </p>
               </div>
 
-              <form onSubmit={handleSubmit} className="space-y-6">
+              <form id="contact-form" onSubmit={handleSubmit} className="space-y-6">
                 <div className="grid md:grid-cols-2 gap-6">
                   <div className="space-y-2">
                     <Label htmlFor="name">Full Name *</Label>
@@ -180,7 +181,9 @@ export default function ContactPage() {
                 <p className="text-sm text-muted-foreground mb-4">
                   See myResto Today in action with a personalized demo
                 </p>
-                <Button className="w-full bg-accent text-accent-foreground hover:bg-accent/90">Book a Demo</Button>
+                <Link href="/demo">
+                  <Button className="w-full bg-accent text-accent-foreground hover:bg-accent/90">Book a Demo</Button>
+                </Link>
               </Card>
 
               <Card className="p-6">
@@ -189,9 +192,11 @@ export default function ContactPage() {
                 </div>
                 <h3 className="text-lg font-semibold mb-2">Sales Inquiry</h3>
                 <p className="text-sm text-muted-foreground mb-4">Talk to our sales team about pricing and plans</p>
-                <Button className="w-full bg-transparent" variant="outline">
-                  Contact Sales
-                </Button>
+                <Link href="/contact#contact-form">
+                  <Button className="w-full bg-transparent" variant="outline">
+                    Contact Sales
+                  </Button>
+                </Link>
               </Card>
 
               <Card className="p-6 bg-accent/5 border-accent/20">

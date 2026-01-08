@@ -1,11 +1,49 @@
 globalThis.__BUILD_MANIFEST = {
   "pages": {
-    "/_app": []
+    "/_app": [
+      "static/chunks/245f5_next_dist_compiled_dcdb9bd8._.js",
+      "static/chunks/245f5_next_dist_shared_lib_0db8f03d._.js",
+      "static/chunks/245f5_next_dist_client_4219580a._.js",
+      "static/chunks/245f5_next_dist_91a9790b._.js",
+      "static/chunks/245f5_next_app_28b24f1b.js",
+      "static/chunks/[next]_entry_page-loader_ts_41443fd8._.js",
+      "static/chunks/245f5_react-dom_5cd14bfe._.js",
+      "static/chunks/245f5_3992058e._.js",
+      "static/chunks/[root-of-the-server]__7be632d3._.js",
+      "static/chunks/13466_Documents_myResto Today_myresto-today-landing-website_pages__app_2da965e7._.js",
+      "static/chunks/9f58e_Documents_myResto Today_myresto-today-landing-website_pages__app_0715246f._.js"
+    ],
+    "/_error": [
+      "static/chunks/245f5_next_dist_compiled_dcdb9bd8._.js",
+      "static/chunks/245f5_next_dist_shared_lib_c71f4bf4._.js",
+      "static/chunks/245f5_next_dist_client_4219580a._.js",
+      "static/chunks/245f5_next_dist_bf7e9340._.js",
+      "static/chunks/245f5_next_error_e14c2a96.js",
+      "static/chunks/[next]_entry_page-loader_ts_67b08ab7._.js",
+      "static/chunks/245f5_react-dom_5cd14bfe._.js",
+      "static/chunks/245f5_3992058e._.js",
+      "static/chunks/[root-of-the-server]__ed6d0771._.js",
+      "static/chunks/13466_Documents_myResto Today_myresto-today-landing-website_pages__error_2da965e7._.js",
+      "static/chunks/9f58e_Documents_myResto Today_myresto-today-landing-website_pages__error_98ef12d1._.js"
+    ]
   },
   "devFiles": [],
-  "polyfillFiles": [],
+  "polyfillFiles": [
+    "static/chunks/245f5_next_dist_build_polyfills_polyfill-nomodule.js"
+  ],
   "lowPriorityFiles": [],
-  "rootMainFiles": []
+  "rootMainFiles": [
+    "static/chunks/[turbopack]_browser_dev_hmr-client_hmr-client_ts_2392f4db._.js",
+    "static/chunks/245f5_next_dist_compiled_react-dom_4585a222._.js",
+    "static/chunks/245f5_next_dist_compiled_react-server-dom-turbopack_80cd6be3._.js",
+    "static/chunks/245f5_next_dist_compiled_next-devtools_index_a096c680.js",
+    "static/chunks/245f5_next_dist_compiled_bdec3038._.js",
+    "static/chunks/245f5_next_dist_client_7b07d8f2._.js",
+    "static/chunks/245f5_next_dist_5b6b4709._.js",
+    "static/chunks/245f5_@swc_helpers_cjs_2664a3d7._.js",
+    "static/chunks/OneDrive_Documents_myResto Today_myresto-today-landing-website_a0ff3932._.js",
+    "static/chunks/9f58e_Documents_myResto Today_myresto-today-landing-website_b3701ea6._.js"
+  ]
 };
 globalThis.__BUILD_MANIFEST.lowPriorityFiles = [
 "/static/" + process.env.__NEXT_BUILD_ID + "/_buildManifest.js",
